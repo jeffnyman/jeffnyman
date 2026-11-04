@@ -10,3 +10,13 @@ My repos fall into two camps:
 **➡️ Browse everything at [jeffnyman.github.io](https://jeffnyman.github.io)**
 
 I write about testing at [Tester Stories](https://testerstories.com).
+
+---
+
+> *Veritas est adaequatio rei et intellectus.*<br>
+> "Truth is the conformity of thing and intellect."<br>
+> — St. Thomas Aquinas, *Summa Theologiae* I, q.16, a.2
+
+> *Misericordia et veritas te non deserant; circumda eas gutturi tuo, et describe in tabulis cordis tui.*<br>
+> "Let not mercy and truth forsake thee: bind them about thy neck; write them upon the table of thine heart."<br>
+> — Proverbs 3:3
