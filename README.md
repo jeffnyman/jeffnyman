@@ -5,7 +5,7 @@ I specialize in test solution development, but I create projects based on the te
 My repos fall into two camps:
 
 - 🧪 **[Work: Quality Engineering](https://jeffnyman.github.io/#work)**: Playwright, Cypress, test frameworks, applications to practice against, and AI evaluation.
-- 🕹️ **[Play: Retro & Interactive Fiction](https://jeffnyman.github.io/#play)**: retro game players, Z-machine interpreters, Inform tooling, and games you can play in the browser.
+- 🕹️ **[Play: Retro Games & Interactive Fiction](https://jeffnyman.github.io/#play)**: retro game players, Z-machine interpreters, Inform tooling, and games you can play in the browser.
 
 **➡️ Browse everything at [jeffnyman.github.io](https://jeffnyman.github.io)**
 
